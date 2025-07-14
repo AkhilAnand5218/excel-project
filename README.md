@@ -1,0 +1,1 @@
+This interactive dashboard provides a data-driven snapshot of the corporate landscape across India. It highlights key metrics like review volume, employee sentiments, industry reach, and operational presence—enabling strategic comparisons and actionable insights for analysts, job seekers, and business researchers.
